@@ -1,0 +1,94 @@
+8
+
+dir
+58
+https://vip.svnspot.com/if1else0.test/todolist/src/com/example/todolist
+https://vip.svnspot.com/if1else0.test
+
+
+
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6f6e7bb-0017-ded5-49dd-124932f569f0
+
+EditToDoItemActivity.java
+file
+
+
+
+
+2017-07-26T10:13:05.573000Z
+fbc8da51fc2ab52944c500aba5bdd2c7
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+LoginActivity.java
+file
+
+
+
+
+2017-07-26T10:13:05.548000Z
+29400a5faf868f9751670682351b27dc
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+MainActivity.java
+file
+
+
+
+
+2017-07-26T10:13:05.372000Z
+5cd9161dbf285ad460a787f59e02d216
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+NewToDoActivity.java
+file
+
+
+
+
+2017-07-26T10:13:05.587000Z
+fbef182da18d94a9ab07860f9a4a0d12
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+ToDoItemDetailActivity.java
+file
+
+
+
+
+2017-07-26T10:13:05.463000Z
+b1988572ab6358c0095133ac34279a7a
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+dao
+dir
+
+entity
+dir
+

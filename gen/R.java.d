@@ -1,0 +1,24 @@
+D:\test\todolist\gen\com\example\todolist\R.java \
+ : D:\test\todolist\res\drawable-hdpi\back.png \
+D:\test\todolist\res\drawable-hdpi\ic_action_new.png \
+D:\test\todolist\res\drawable-hdpi\ic_launcher.png \
+D:\test\todolist\res\drawable-mdpi\ic_action_new.png \
+D:\test\todolist\res\drawable-mdpi\ic_launcher.png \
+D:\test\todolist\res\drawable-xhdpi\ic_action_new.png \
+D:\test\todolist\res\drawable-xhdpi\ic_launcher.png \
+D:\test\todolist\res\drawable-xxhdpi\ic_launcher.png \
+D:\test\todolist\res\layout\activity_edit_to_do_item.xml \
+D:\test\todolist\res\layout\activity_login.xml \
+D:\test\todolist\res\layout\activity_main.xml \
+D:\test\todolist\res\layout\activity_new_to_do.xml \
+D:\test\todolist\res\layout\activity_to_do_item_detail.xml \
+D:\test\todolist\res\layout\listview_item_to_do.xml \
+D:\test\todolist\res\menu\detail.xml \
+D:\test\todolist\res\menu\main.xml \
+D:\test\todolist\res\values\dimens.xml \
+D:\test\todolist\res\values\strings.xml \
+D:\test\todolist\res\values\styles.xml \
+D:\test\todolist\res\values-v11\styles.xml \
+D:\test\todolist\res\values-v14\styles.xml \
+D:\test\todolist\res\values-w820dp\dimens.xml \
+D:\test\todolist\bin\AndroidManifest.xml \

@@ -1,0 +1,131 @@
+8
+
+dir
+58
+https://vip.svnspot.com/if1else0.test/todolist
+https://vip.svnspot.com/if1else0.test
+
+
+
+2015-10-10T15:56:29.248819Z
+56
+if1else0
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6f6e7bb-0017-ded5-49dd-124932f569f0
+
+.classpath
+file
+
+
+
+
+2017-07-26T10:13:13.192000Z
+e43b9e994685d1055e421f721677fe94
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+.project
+file
+
+
+
+
+2017-07-26T10:13:13.224000Z
+bf01334d73310bc2a6e9e44474c7dab2
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+.settings
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2017-07-26T10:13:13.249000Z
+427b94b12ad8aa8a78dc16571046a8c6
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+assets
+dir
+
+build.xml
+file
+
+
+
+
+2017-07-26T10:13:13.290000Z
+4f3a5ebc310e6ab2d23e87ee6caccd12
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+gen
+dir
+
+ic_launcher-web.png
+file
+
+
+
+
+2017-07-26T10:13:13.273000Z
+03162f4ee138bcbae36f78b1d25dbd5b
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+has-props
+
+libs
+dir
+
+proguard-project.txt
+file
+
+
+
+
+2017-07-26T10:13:13.238000Z
+a8e31d01b7d94e721851a4dd39b088cb
+2015-02-26T08:03:36.506018Z
+2
+if1else0
+
+project.properties
+file
+
+
+
+
+2017-07-26T10:13:13.208000Z
+6bc29827a20f0391406586601017da3b
+2015-03-07T16:56:13.389321Z
+6
+if1else0
+
+res
+dir
+
+src
+dir
+
